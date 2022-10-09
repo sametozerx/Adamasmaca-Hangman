@@ -16,6 +16,8 @@ Uygulamadaki özellikler:
 
 -Oyun uygulamayı kapatmadan tekrar oynanabilmektedir.
 
+=====================================================================
+
 English:
 
 Hangman game I made with C# Windows Form Application
@@ -32,7 +34,7 @@ Features in the app:
 
 -The game can be played again without closing the application.
 
-
+=====================================================================
 
 Oyundan görüntüler / Images from the game
 
