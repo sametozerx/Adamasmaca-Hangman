@@ -33,6 +33,7 @@ Features in the app:
 -The game can be played again without closing the application.
 
 
+
 Oyundan görüntüler / Images from the game
 
 ![turkishingame](https://user-images.githubusercontent.com/101431097/194776311-26aecf50-807b-454f-b5a1-7990e83ffe40.PNG)
