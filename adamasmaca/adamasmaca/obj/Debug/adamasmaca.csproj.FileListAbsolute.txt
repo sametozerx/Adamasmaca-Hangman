@@ -1,0 +1,11 @@
+C:\Users\samet\source\repos\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csproj.SuggestedBindingRedirects.cache
+C:\Users\samet\source\repos\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Form1.resources
+C:\Users\samet\source\repos\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Properties.Resources.resources
+C:\Users\samet\source\repos\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe.config
+C:\Users\samet\source\repos\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe
+C:\Users\samet\source\repos\adamasmaca\adamasmaca\bin\Debug\adamasmaca.pdb
+C:\Users\samet\source\repos\adamasmaca\adamasmaca\obj\Debug\adamasmaca.exe
+C:\Users\samet\source\repos\adamasmaca\adamasmaca\obj\Debug\adamasmaca.pdb
