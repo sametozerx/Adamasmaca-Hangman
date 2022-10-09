@@ -31,3 +31,11 @@ Features in the app:
 -There are 3 word categories.
 
 -The game can be played again without closing the application.
+
+
+Oyundan görüntüler / Images from the game
+
+![turkishingame](https://user-images.githubusercontent.com/101431097/194776311-26aecf50-807b-454f-b5a1-7990e83ffe40.PNG)
+
+
+![englishingame](https://user-images.githubusercontent.com/101431097/194776346-708dd0c3-1f59-4170-a4fa-ee1b07e4b246.PNG)
